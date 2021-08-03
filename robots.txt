@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://lagudangdut.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://lagudangdut.herokuapp.com/sitemap.xml
